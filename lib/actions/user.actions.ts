@@ -181,4 +181,3 @@ export async function getActivity(userId: string) {
     throw error;
   }
 }
-
