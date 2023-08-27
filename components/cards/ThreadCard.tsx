@@ -168,4 +168,3 @@ function ThreadCard({
 }
 
 export default ThreadCard;
-
