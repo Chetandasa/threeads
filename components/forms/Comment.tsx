@@ -85,3 +85,4 @@ function Comment({ threadId, currentUserImg, currentUserId }: Props) {
 }
 
 export default Comment;
+
