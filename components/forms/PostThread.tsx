@@ -80,3 +80,4 @@ function PostThread({ userId }: Props) {
 }
 
 export default PostThread;
+
